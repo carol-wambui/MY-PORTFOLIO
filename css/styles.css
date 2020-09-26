@@ -14,7 +14,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    /* background-color: #333; */
 }
   
 li {
@@ -30,7 +29,7 @@ li a {
 }
   
 li a:hover {
-    background-color: #111;
+    background-color:lime;
 }
 .wambo nav ul li{
     display: block;
@@ -48,8 +47,9 @@ li a:hover {
     margin-top: 30px;
 }
 footer{
-    background-color: purple;
+    background-color: #333;
     padding: 20px;
+    justify-content: space-evenly;
 }
 .img{
     float: right;

@@ -6,11 +6,16 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
-  
 li {
     float: left;
 }
-  
+#wamboo{
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color:purple;
+}
 li a {
     display: block;
     color: white;
@@ -18,7 +23,6 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-  
 li a:hover {
     background-color: #111;
 }
