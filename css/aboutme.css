@@ -25,4 +25,8 @@ li a {
 }
 li a:hover {
     background-color: #111;
+    
+}
+.cashy{
+    text-align: center;
 }
