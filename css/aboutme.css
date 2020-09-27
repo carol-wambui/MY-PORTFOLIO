@@ -28,5 +28,6 @@ li a:hover {
     
 }
 .cashy{
-    text-align: center;
-}
+    /* text-align: center; */
+    display: flex;
+    justify-content: space-around;}
