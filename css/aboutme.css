@@ -31,4 +31,8 @@ li a:hover {
 .cashy{
     /* text-align: center; */
     display: flex;
-    justify-content: space-around;}
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
